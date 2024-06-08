@@ -729,7 +729,7 @@ $btn-mb: 0.5rem;
 
   .site-title {
     font-family: inherit;
-    font-weight: 900;
+    font-weight: 400;
     font-size: 1.75rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
@@ -770,7 +770,6 @@ $btn-mb: 0.5rem;
         display: flex;
         align-items: center;
         border-radius: 0.75rem;
-        font-weight: 600;
 
         &:hover {
           background-color: var(--sidebar-hover-bg);
@@ -806,11 +805,11 @@ $btn-mb: 0.5rem;
   }
 
   .sidebar-bottom {
-    padding-left: 2rem;
-    padding-right: 1rem;
-    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
 
-    $btn-size: 1.75rem;
+    $btn-size: 2rem;
 
     %button {
       width: $btn-size;

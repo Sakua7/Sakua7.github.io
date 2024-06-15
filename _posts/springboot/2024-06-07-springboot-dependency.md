@@ -7,6 +7,11 @@ author: Sakua7
 mermaid: true
 ---
 
+<span style="color: #FFD700; font-weight: bold;">본 게시물은 틀린 부분이 있을 수 있습니다, 참고 부탁드립니다. 🥹</span>
+
+## Environment
+* m1 mac
+* 
 ## 개발 환경
 
 - <span class="env-text">M1 Mac</span>

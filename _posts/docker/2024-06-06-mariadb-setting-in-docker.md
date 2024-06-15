@@ -7,10 +7,11 @@ author: Sakua7
 mermaid: true
 ---
 
-## Environment
+<span style="color: #FFD700; font-weight: bold;">본 게시물은 틀린 부분이 있을 수 있습니다, 참고 부탁드립니다. 🥹</span>
 
-- <span class="env-text">m1 mac</span>
-- <span class="env-text">Docker version 24.0.2</span>
+## 개발환경
+* m1 mac
+* Docker version 24.0.2
 
 ## Mariadb In Docker
 

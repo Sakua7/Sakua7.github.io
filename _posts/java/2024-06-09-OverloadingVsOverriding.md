@@ -20,6 +20,8 @@ mermaid: true
 - 어떤 메서드를 사용할지는 컴파일 단계에서 결정된다.
 <!-- The determenation of which method to use is made at the compile time. -->
 
+### 예시 코드
+
 ```java
 // Overloading 예시
 class MathOperations {
@@ -54,6 +56,8 @@ class MathOperations {
 
 - @Overriding 어노테이션은 필수가 아니지만 컴파일 단계에서 실제 오버라이딩 여부를 검사해 주므로 사용하는 것을 추천한다.
 <!-- The "@Override" annotation is not mandatory, but it is recommended to use it because it helps to check the actual overriding during the compile time. -->
+
+### 예시 코드
 
 ```java
 // Overriding 예시
@@ -91,10 +95,8 @@ public class Main {
 }
 ```
 
-## 요약
-
-- Overloading - 같은 클래스 내부에서 이름이 같은 메서드가 다른 시그니처를 가지고 있는 것
+## 결론
+* **Overloading - 같은 클래스 내부에서 이름이 같은 메서드가 다른 시그니처를 가지고 있는 것**
 <!-- Overloading - methods within the same class having the same name but different signatures. -->
-
-- Overriding - 상속관계의 하위 클래스가 상위 클래스의 이름과 시그니처가 같은 메서드를 재정의 하는 것
+* **Overriding - 상속관계의 하위 클래스가 상위 클래스의 이름과 시그니처가 같은 메서드를 재정의 하는 것**
 <!-- Overriding - When a subclass in an inheritance relationship redefines a method with the same name and signature as that in the superclass. -->

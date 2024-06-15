@@ -1,5 +1,5 @@
 ---
-title: Mariadb setting in docker
+title: '[Docker] 도커에서 MariaDB 사용하기'
 date: 2024-06-06 12:00:00 +0000
 categories: [Docker, Mariadb]
 tags: [Docker, Mariadb]
@@ -7,9 +7,9 @@ author: Sakua7
 mermaid: true
 ---
 
-## 개발 환경
+## Environment
 
-- <span class="env-text">M1 Mac</span>
+- <span class="env-text">m1 mac</span>
 - <span class="env-text">Docker version 24.0.2</span>
 
 ## Mariadb In Docker

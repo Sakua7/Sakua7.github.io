@@ -1,5 +1,5 @@
 ---
-title: SpringBoot 의존성 추천
+title: '[SpringBoot] 의존성 추천'
 date: 2024-06-07 12:00:00 +0000
 categories: [SpringBoot]
 tags: [SpringBoot]

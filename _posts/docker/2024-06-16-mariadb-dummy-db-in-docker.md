@@ -21,7 +21,10 @@ mermaid: true
     </a>
 </div>
 
---- 
+---
+
+## world.sql 다운로드
+
 위 게시물에서 docker에서 mariadb를 올렸다면 이제 dummy db를 추가하는 방법을 알아보자.
 
 다음 링크를 들어가면 여러가지 dummy db를 다운받을수 있는데 본 게시물에서는 world.sql을 사용해보려한다
@@ -36,6 +39,8 @@ mermaid: true
 **world database의 Zip 형태로 받아주고 압축을 풀면 world.sql 파일이 생성된다.**
 
 ---
+
+## docker에 복사
 
 world.sql 파일이 있는 위치에서 docker로 파일을 복사해 준다.
 ![dummy_db_3](/assets/img/2024-06-16/dummy_db_3.png)

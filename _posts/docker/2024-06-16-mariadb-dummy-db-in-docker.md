@@ -26,7 +26,7 @@ mermaid: true
 
 다음 링크를 들어가면 여러가지 dummy db를 다운받을수 있는데 본 게시물에서는 world.sql을 사용해보려한다
 <div style="background-color: #007bff; padding: 10px; border-radius: 15px; text-align: center;">
-    <a href="https://sakua7.github.io/posts/mariadb-setting-in-docker/" style="color: white;  font-size: 1.2em;">
+    <a href="https://dev.mysql.com/doc/index-other.html" style="color: white;  font-size: 1.2em;">
         https://dev.mysql.com/doc/index-other.html
     </a>
 </div>
